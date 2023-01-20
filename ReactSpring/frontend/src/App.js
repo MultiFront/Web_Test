@@ -15,6 +15,7 @@ function App () {
     return (
         <div className="App">
             <p>유나 commit test</p>
+            <p>강현 commit test</p>
         </div>
     )
 }
